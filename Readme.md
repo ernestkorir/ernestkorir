@@ -2,8 +2,8 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer
-Current Learner at Microverse 
+I'm a self-taught passionate Full stack developer <br>
+Current a Learner at Microverse 
 
 **About me**
 
