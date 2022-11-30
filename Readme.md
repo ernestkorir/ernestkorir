@@ -3,7 +3,7 @@
 <br />
 
 I'm a self-taught passionate Full stack developer <br>
-Current a Learner at Microverse
+Currently a Learner at Microverse
 
 **About me**
 
