@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ernestbore3" target="blank"><img src="https://img.shields.io/twitter/follow/ernestbore3?logo=twitter&style=for-the-badge" alt="ernestbore3" /></a> </p>
 
-- 🌱 I’m currently learning **React and redux**
+- 🌱 I’m currently learning **Full-Stack**
 
-- 💬 Ask me about **Frontend, Javascript**
+- 💬 Ask me about **Javascript, React, Ruby on Rails, PostgreSQL, Linux**
 
 - 📫 How to reach me **ernestbore3@gmail.com**
 
