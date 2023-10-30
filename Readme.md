@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ernest Korir</h1>
-<h3 align="center">I'm a self-taught passionate Full stack developer. <br>Currently a Learner at Microverse</h3>
+<h3 align="center">I'm a self-taught passionate Full stack developer.</h3>
 
-- 🌱 I’m currently am improving my skills
-
-- 💬 Ask me about **Javascript, React, Ruby on Rails, PostgreSQL, Linux**
+- 🌱 I’m currently open to open source projects
 
 - 📫 How to reach me **ernestbore3@gmail.com**
 
