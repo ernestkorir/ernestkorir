@@ -2,8 +2,8 @@
 
 ## I'm a Developer and Open Source Enthusiast!
 
-- 🔭 I’m currently working on [Your Project Name]
-- 🌱 I’m currently learning [What you are learning]
+- 🔭 I’m currently building projects using JavaScript, React, Ruby on Rails 
+- 🌱 I’m currently learning blockchain
 - 💬 Ask me about anything, I'm happy to help
 
 ### GitHub Streak
