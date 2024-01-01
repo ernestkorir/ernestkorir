@@ -15,5 +15,6 @@
 
 <div>
   <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ernestkorir&show_icons=true&locale=en&layout=compact" alt="ernestkorir" /></div>
-  <div style="text-align: right"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ernestkorir&" alt="ernestkorir" /> </div>
+  <div style="text-align: right"> <img align="center" src="https://streak-stats.demolab.com/ernestkorir=DenverCoder1)](https://git.io/streak-stats" alt="ernestkorir" /> </div>
 </div>
+(https://streak-stats.demolab.com/ernestkorir=DenverCoder1)](https://git.io/streak-stats)
