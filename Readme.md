@@ -14,6 +14,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestkorir&layout=compact&theme=dark)](https://github.com/ernestkorir)
 
+### Fun Facts
+- 🎸 I play the guitar
+- 🚀 I love stargazing
+
+
 ### Connect with me
 
 [![Linkedin](https://img.shields.io/badge/-ernestkorir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ernestkorir/)](https://www.linkedin.com/in/ernestkorir/)
