@@ -8,11 +8,11 @@
 
 ### GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ernestkorir)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ernestkorir)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ernestkorir&theme=great-gatsby)](https://git.io/streak-stats)
 
 ### Languages and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestkorir&layout=compact&theme=dark)](https://github.com/ernestkorir)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestkorir&layout=compact&theme=great-gatsby)](https://github.com/ernestkorir)
 
 ### Fun Facts
 - 🎸 I play the guitar
