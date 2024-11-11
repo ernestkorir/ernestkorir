@@ -8,7 +8,6 @@
 
 ### GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ernestkorir&theme=great-gatsby)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ernestkorir&theme=great-gatsby)](https://git.io/streak-stats)
 
 
 ### Languages and Tools
