@@ -3,7 +3,7 @@
 ## I'm a Developer and Open Source Enthusiast!
 
 - 🔭 I’m currently building projects using JavaScript, React, Ruby on Rails 
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning GoLang
 - 💬 Ask me about anything, I'm happy to help
 
 ### GitHub Streak
